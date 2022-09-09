@@ -23,6 +23,8 @@ The sensors were arranged in the lab according to the diagram shown below:
 
 # Interpreting Human Activity - Human Activity Detection using Accelerometer and Gyroscope Data
 
+## Introduction
+
 This pdf is my report of working with sensor data collected using accelerometer and gyroscope. The objective is to detect human activities like standing, sitting, walking, climbing up/down the stairs, etc. through decision fusion algorithms. In addition, behaviour change detection algorithms have also been used to detect points of switching between these activities in given time.
 
 ## Dataset
